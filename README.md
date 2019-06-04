@@ -12,3 +12,31 @@ Walmart is also interested in developing a rudimentary segmentation model of the
 Here we are refering to two set of data 
 1) Census-Income.Columns
 2) Census-Income.Data
+
+
+
+#### Steps to get the Jupyter:
+
+
+To get Anaconda, simply:
+1.Download the latest version of Anaconda for Python 3 (ignore Python 2.7).
+2.Install Anaconda by following the instructions on the download page and/or in the executable.
+Or can just use pip: pip3 install jupyter
+
+Then follow below steps:
+
+Step1: download the file MLExercise_Walmart.ipynb.
+
+Step2: Start jupyter note book with the command: jupyter notebook
+
+
+Running Jupyter
+---------------
+On Windows, you can run Jupyter via the shortcut Anaconda adds to your start menu, which will open a new tab in your default web browser 
+
+URL for the dashboard is something like http://localhost:8888/tree.
+
+For more reference please see the below link
+
+https://jupyter-notebook.readthedocs.io/en/stable/
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/

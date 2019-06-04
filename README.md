@@ -1,4 +1,6 @@
-# Walmart-Customer-Segregation-ML-
+# Walmart Customer Segregation ML
+
+## Business Problem:
 
 Walmart Technology has been tasked with identifying two groups of people for marketing purposes: People who earn an income of less than $50,000 and those who earn more than $50,000. To assist in this pursuit, Walmart has developed a means of accessing 40 different demographic and employment-related variables for any person they are interested in marketing to. Additionally, Walmart has been able to compile a dataset that provides gold labels for a variety of observations of these 40 variables within the population. Using the dataset given, train and validate a classifier that predicts this outcome.
 
